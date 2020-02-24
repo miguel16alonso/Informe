@@ -8,72 +8,36 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ### Pre-requisitos 📋
 
 _Para instalar el siguiente software neceistas S.O Linux_
+_BASE DE DATOS hsqldb_
 
-### Instalación 🔧
+## Funcionamiento de la aplicacion ⚙️
 
-_Para poder ejecutar la aplicacion es necesario instalar el .deb de la aplicacion_
+_Tiene una pantalla principal con un menu, que contiene tres opciones_
+ol>
+  <li>El primero listara todos los clientes que tiene el sistema</li>
+  <li>La segunda muestra las facturas que tiene cada cliente</li>
+  <li>La tarcera genera una factura de un cliente</li>
+</ol>
 
-_Dí cómo será ese paso_
+## 🛠️ Librerias usadas 📦
 
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+_ com.lowagie.text-2.1.7.jar
+commons-beanutils-1.9.3.jar
+commons-collections-3.2.1-1.0.0.jar
+commons-collections4-4.1.jar
+commons-digester-2.1.jar
+commons-javaflow-1066591.jar
+commons-logging-1.2.jar
+hsqldb.jar
+itext-2.1.7.js2.jar
+jasperreports-6.11.0.jar
+_
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Version 1.0
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Miguel Angel Alonso** - *Trabajo Inicial* - [miguel16alonso](https://github.com/miguel16alonso)
 
