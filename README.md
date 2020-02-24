@@ -21,17 +21,16 @@ ol>
 
 ## 🛠️ Librerias usadas 📦
 
-_ com.lowagie.text-2.1.7.jar
-commons-beanutils-1.9.3.jar
-commons-collections-3.2.1-1.0.0.jar
-commons-collections4-4.1.jar
-commons-digester-2.1.jar
-commons-javaflow-1066591.jar
-commons-logging-1.2.jar
-hsqldb.jar
-itext-2.1.7.js2.jar
-jasperreports-6.11.0.jar
-_
+_ com.lowagie.text-2.1.7.jar_
+_commons-beanutils-1.9.3.jar_
+_commons-collections-3.2.1-1.0.0.jar_
+_commons-collections4-4.1.jar_
+_commons-digester-2.1.jar_
+_commons-javaflow-1066591.jar_
+_commons-logging-1.2.jar_
+_hsqldb.jar_
+_itext-2.1.7.js2.jar_
+_jasperreports-6.11.0.jar_
 
 ## Versionado 📌
 
