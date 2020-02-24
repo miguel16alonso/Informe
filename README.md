@@ -1,6 +1,4 @@
 # Informe
-# Título del Proyecto
-
 _El poyecto es una aplicacion para generar informes a raiz de un cliente_
 
 ## Comenzando 🚀
